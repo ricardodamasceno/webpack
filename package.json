@@ -1,0 +1,23 @@
+{
+  "name": "webpack-base",
+  "version": "1.0.0",
+  "description": "Base Project Built with Webpack",
+  "main": "app.js",
+  "scripts": {
+    "start-dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardodamasceno/webpack.git"
+  },
+  "author": "Ricardo Damasceno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardodamasceno/webpack/issues"
+  },
+  "homepage": "https://github.com/ricardodamasceno/webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.6"
+  }
+}
